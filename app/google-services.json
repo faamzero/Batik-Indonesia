@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "104746138140",
+    "firebase_url": "https://test-651fd-default-rtdb.firebaseio.com",
     "project_id": "test-651fd",
     "storage_bucket": "test-651fd.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "104746138140-bhscad40vokro8a7jae95m6eupjbv3tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.batik",
+            "certificate_hash": "3da7ede34d5c89d00fe43ff932c8e0f7fbf5a839"
+          }
+        },
         {
           "client_id": "104746138140-ehq7igb820g5ppbc4g6gnnc8r92qgig4.apps.googleusercontent.com",
           "client_type": 3
