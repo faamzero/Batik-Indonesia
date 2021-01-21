@@ -1,0 +1,4 @@
+#Thu Jan 21 14:43:32 ICT 2021
+base.0=E\:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

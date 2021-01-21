@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit.xml",
+        "source": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\video_batik_content.xml",
+        "source": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\src\\main\\res\\layout\\video_batik_content.xml"
+    },
+    {
+        "merged": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add.xml",
+        "source": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "E:\\D4 INFORMATIKA\\SEMESTER 5\\MOBILE PROGRAMMING1\\Batik\\app\\src\\main\\res\\layout\\activity_register.xml"
+    }
+]
